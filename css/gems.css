@@ -7,7 +7,7 @@
 }
 
 /* Select the image with class of emerald */
-#ocean img {
+.emerald {
   position: absolute;
   z-index: 2;
   top: 350px;
@@ -23,7 +23,7 @@
 }
 
 /* Select the image with the class "yellow_diamond" */
-#ocean img{
+.yellow_diamond {
   position: absolute;
   z-index: 4;
   top: 325px;
